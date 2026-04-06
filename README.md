@@ -3,8 +3,4 @@
 ## Business Problem and solution 
 
 ## 1. Count the Number of Movies vs TV Shows
-{SELECT 
-    type,
-    COUNT(*)
-FROM netflix
-GROUP BY 1;}
+
